@@ -127,7 +127,7 @@ div.c-virtual_list__scroll_container {
 .light_theme ts-message .timestamp {
     line-height: 18px;
     opacity: 0;
-    color: #256fe6 !important;}
+    color: #418aff !important;}
 .p-message_pane .c-message_list:not(.c-virtual_list--scrollbar),
 .p-message_pane .c-message_list.c-virtual_list--scrollbar>.c-scrollbar__hider {
     z-index: 0;
@@ -188,7 +188,7 @@ ts-message .app_preview_link_slug,
 ts-message .internal_member_link,
 ts-message .internal_user_group_link,
 ts-message .mention {
-   color: #256fe6 !important;
+   color: #418aff !important;
     font-size: 14px;
    background: transparent
 }
@@ -229,7 +229,7 @@ ts-message .mention {
 }
 .c-member_slug--link {
       background: transparent;
-   color: #256fe6!important;
+   color: #418aff!important;
     font-weight: 600 !important;
     border: none !important;
     font-size:13px;
@@ -245,7 +245,7 @@ ts-message .mention {
 }
 .c-member_slug--mention,
 .c-member_slug--mention:hover {
-    background: #256fe6 !important;
+    background: #418aff !important;
     color: black !important;
     overflow: hidden;
     line-height: 16px !important;
@@ -816,7 +816,7 @@ a.file_download_link:hover {
 .p-channel_sidebar {
     border-right: 1px solid #464646 !important;}
 .p-search_filter__date_readout {
-    color: #256fe6 !important;
+    color: #418aff !important;
 }
 .p-search_filter__date .c-icon--times-small {
     margin-right: 10px;
