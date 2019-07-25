@@ -688,7 +688,7 @@ a:hover {
 }
 .p-channel_sidebar__badge,
 .p-channel_sidebar__banner--mentions {
-    background: #cd2056 !important;
+    background: #418aff !important;
     box-shadow: 1px 3px 3px rgba(0, 0, 0, 0.2) !important;
 }
 .c-file_container {
@@ -968,10 +968,10 @@ color:white !important;
     opacity:1 !important;
 }
 .c-timestamp__label{
-    color: #1160df !important;
+    color: #418aff !important;
 }
 .c-message__sender{
-color:#495af9 !important
+color:#418aff !important
 }
     .c-dialog__footer .c-button {
         background-color: #0ed256;
@@ -981,7 +981,7 @@ color:#495af9 !important
             color: #ffffff !important;
         }
         a.c-message__sender_link{
-            color: #31d323 !important;
+            color: #418aff !important;
         }
         .ql-editor[aria-label]{
             color: white !important;
