@@ -968,10 +968,10 @@ color:white !important;
     opacity:1 !important;
 }
 .c-timestamp__label{
-    color: #3246ff !important;
+    color: #5d6dff !important;
 }
 .c-message__sender{
-color:#495af9 !important
+color:#5d6dff !important
 }
     .c-dialog__footer .c-button {
         background-color: #0ed256;
@@ -981,7 +981,7 @@ color:#495af9 !important
             color: #ffffff !important;
         }
         a.c-message__sender_link{
-            color: #5d6dff !important;
+            color: #bfc4f7 !important;
         }
         .ql-editor[aria-label]{
             color: white !important;
