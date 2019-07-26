@@ -2596,6 +2596,6 @@ a.c-message__sender_link {
     color: #01dc38;
 }
 
-.c-message_list__unread_divider__separator {
+hr.c-message_list__unread_divider__separator {
     border-color: #0576b9 !important;
 }
