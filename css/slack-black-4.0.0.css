@@ -2595,3 +2595,7 @@ a.c-message__sender_link {
 .c-mrkdwn__pre {
     color: #01dc38;
 }
+
+.c-message_list__unread_divider__separator {
+    color: #0576b9;
+}
