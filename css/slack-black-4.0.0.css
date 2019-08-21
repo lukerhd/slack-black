@@ -2590,7 +2590,7 @@ background:#111111 !important}
 
 /* OVERRIDES */
 .p-file_drag_drop__container {
-    background: #373737;
+    background: #111111;
 }
 a.c-message__sender_link {
     color: #418aff !important;
