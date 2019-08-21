@@ -2589,6 +2589,9 @@ background:#111111 !important}
     color: #a0a0a0;}
 
 /* OVERRIDES */
+.p-file_drag_drop__container {
+    background: #373737;
+}
 a.c-message__sender_link {
     color: #418aff !important;
 }
